@@ -160,6 +160,126 @@
     "sumber": "Al Qosos 16,"
   },
   {
+    "no": 19,
+    "doa": "Doa Mohon Kebaikan Dunia Akhirat,",
+    "arab": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ,",
+    "latin": null,
+    "arti": "Wahai Tuhan kami, berilah kami kebaikan di dunia dan di akhirat dan jagalah kami dari siksa neraka.,",
+    "cara": null,
+    "utama": null,
+    "sumber": "Al Baqarah 201,"
+  },
+  {
+    "no": 20,
+    "doa": "Doa Mohon Segala Kebaikan,",
+    "arab": "رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ ,",
+    "latin": null,
+    "arti": "Wahai Tuhanku, sesungguhnya aku orang yang sangat membutuhkan kebaikan yang telah Engkau turunkan kepadaku.,",
+    "cara": null,
+    "utama": null,
+    "sumber": "Al Qosos 24,"
+  },
+  {
+    "no": 21,
+    "doa": "Doa Mohon Tetap Dalam Hidayah,",
+    "arab": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً إِنَّكَ أَنْتَ الْوَهَّابُ ,",
+    "latin": null,
+    "arti": "Wahai Tuhan kami, janganlah Engkau menyimpangkan hati kami setelah Engkau berikan petunjuk kepada kami, dan karuniakanlah kepada kami rahmat dari sisiMu, sesungguhnya Engkau Maha Pemberi. ,",
+    "cara": null,
+    "utama": null,
+    "sumber": "Ali Imron 8-9,"
+  },
+  {
+    "no": 22,
+    "doa": "Doa Mohon Dibangunkan Rumah di Surga,",
+    "arab": "رَبِّ ابْنِ لِي عِندَكَ بَيْتًا فِي الْجَنَّةِ  ,",
+    "latin": null,
+    "arti": "Wahai Tuhanku, bangunkan untukku rumah di sisiMu di dalam surga. ,",
+    "cara": null,
+    "utama": null,
+    "sumber": "At Tahrim 11,"
+  },
+  {
+    "no": 23,
+    "doa": "Doa Mohon Diselamatkan dari Neraka,",
+    "arab": "رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ إِنَّ عَذَابَهَا كَانَ غَرَامًا إِنَّهَا سَاءَتْ مُسْتَقَرًّا وَمُقَامًا ,",
+    "latin": null,
+    "arti": "Wahai Tuhan kami, palingkanlah siksa Jahanam dari kami, karena sesungguhnya siksanya itu merusak. Sesungguhnya neraka Jahanam itu seburuk-buruk tempat menetap dan tempat kediaman. ,",
+    "cara": null,
+    "utama": null,
+    "sumber": "Al Furqon 65-66,"
+  },
+  {
+    "no": 24,
+    "doa": "Doa Mohon Dijadikan Orang Sholih, Dikenang kebaikannya dan pewaris Surga,",
+    "arab": "رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ وَاجْعَلْ لِي لِسَانَ صِدْقٍ فِي الْآخِرِينَ , وَاجْعَلْنِي مِنْ وَرَثَةِ جَنَّةِ النَّعِيمِ , ",
+    "latin": null,
+    "arti": "Wahai Tuhanku, berikanlah kepadaku hikmah dan masukkanlah aku ke dalam golongan orang-orang yang shalih, dan jadikanlah untukku tutur kata yang baik bagi orang-orang yang akhir (generasi setelahku), dan jadikanlah aku termasuk orang yang mewarisi surga yang penuh kenikmatan. ,",
+    "cara": null,
+    "utama": null,
+    "sumber": "As Su'aro 83-85,"
+  },
+  {
+    "no": 25,
+    "doa": "Doa mohon agar digolongkan orang-orang yang menyaksikan kebenaran ,",
+    "arab": "رَبَّنَا آمَنَّا بِمَا أَنْزَلْتَ وَاتَّبَعْنَا الرَّسُولَ فَاكْتُبْنَا مَعَ الشَّاهِدِينَ  ,",
+    "latin": null,
+    "arti": "Wahai Tuhan kami, kami telah beriman kepada apa (Al-Qur'an) yang Engkau turunkan dan kami telah mengikuti Rosul, maka catatlah kami bersama golongan orang yang menyaksikan (atas kebenaran Al-Qur'an dan kenabian Muhammad). ,",
+    "cara": null,
+    "utama": null,
+    "sumber": "Ali Imron 53,"
+  },
+  {
+    "no": 26,
+    "doa": "Doa mohon agar digolongkan orang-orang yang menyaksikan kebenaran ,",
+    "arab": "رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ  ,",
+    "latin": null,
+    "arti": "Wahai Tuhan kami, kami telah beriman, maka catatlah kami bersama orang-orang yang menyaksikan (atas kebenaran Al-Qur'an dan kenabian Muhammad). ,",
+    "cara": null,
+    "utama": null,
+    "sumber": "Al Maidah 83,"
+  },
+  {
+    "no": 27,
+    "doa": "Do'a mohon menjadi ahli syukur,",
+    "arab": "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ,",
+    "latin": null,
+    "arti": "Wahai Tuhanku, berikan aku ilham untuk tetap mensyukuri nikmatMu yang telah Engkau anugerahkan kepadaku dan kepada kedua orang tuaku dan agar aku mengerjakan kebaikan yang Engkau ridlai dan masukkanlah aku dengan rohmahMu ke dalam golongan hamba-hambaMu yang shalih. ,",
+    "cara": null,
+    "utama": null,
+    "sumber": "An Naml 19,"
+  },
+  {
+    "no": 28,
+    "doa": "Do'a mohon menjadi ahli syukur,",
+    "arab": "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي فِي ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ,",
+    "latin": null,
+    "arti": "Wahai Tuhanku, berilah aku ilham agar aku dapat mensyukuri nikmatMu yang telah Engkau anugerahkan kepadaku dan kepada kedua orang tuaku, dan agar aku dapat berbuat kebaikan yang Engkau ridlai dan jadikan anak turunku orang-orang yang shalih. Sesungguhnya aku bertaubat kepadaMu, dan sesungguhnya aku termasuk orang muslim. ,",
+    "cara": null,
+    "utama": null,
+    "sumber": "Al Ahqof 15,"
+  },
+  {
+    "no": 29,
+    "doa": "Do'a mohon dimasukkan golongan orang-orang yang sholih,",
+    "arab": "فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ أَنتَ وَلِيِّي فِي الدُّنْيَا وَالْآخِرَةِ تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينَ,",
+    "latin": null,
+    "arti": "(Wahai Tuhan) pencipta langit dan bumi, Engkaulah kekasihku di dunia dan di akhirat, wafatkanlah aku dalam keadaan muslim dan masukkanlah aku ke dalam golongan orang-orang yang shalih.  ,",
+    "cara": null,
+    "utama": null,
+    "sumber": "Yusuf 101,"
+  },
+  {
+    "no": 30,
+    "doa": "Do'a mohon tidak diberi beban yang berat sehingga tidak mampu menanggungnya,",
+    "arab": "رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنتَ مَوْلَانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ,",
+    "latin": null,
+    "arti": "Wahai Tuhan kami, janganlah Engkau menyiksa kami jika kami lupa atau kami melakukan kesalahan dengan tidak sengaja. Wahai Tuhan kami, janganlah Engkau bebani kami dengan beban yang berat sebagaimana Engkau bebankan kepada orang-orang sebelum kami. Wahai Tuhan kami, janganlah Engkau bebankan kepada kami apa yang tidak sanggup kami menanggungnya. Maafkanlah kami, ampunilah kami, dan sayangilah kami. Engkaulah kekasih kami, maka tolonglah kami mengatasi orang-orang kafir. ,",
+    "cara": null,
+    "utama": null,
+    "sumber": "Al Baqarah 286,"
+  },
+  {
     "no": 50,
     "doa": "Doa Bangun Tidur 1",
     "arab": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِيٓ أَحْيَانَا بَعْدَ مَآ أَمَاتَنَا، وَإِلَيْهِ ٱلنُّشُورُ,",
