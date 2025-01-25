@@ -1,21 +1,53 @@
 [
   {
-    "no": null,
-    "doa": null,
-    "arab": null,
+    "no": 2,
+    "doa": "Al-Ismu Al-Adhom,",
+    "arab": " اللّهُمَّ إِنِّي أَسْأَلُكَ بِأَنِّي أَشْهَدُ أَنَّكَ أَنْتَ اللَّهُ لَا إِلَهَ إِلَّا أَنْتَ الأَحَدُ الصَّمَدُ الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ.,",
     "latin": null,
-    "arti": null,
+    "arti": "Ya Alloh, sesungguhnya aku mohon kepadaMu, karena sesungguhnya aku bersaksi bahwa sesungguhnya Engkau adalah Alloh, tiada tuhan selain Engkau, yang Maha Esa, Dzat tempat meminta segala sesuatu, Dzat yang tidak beranak dan tidak dilahirkan dan tidak ada seorangpun yang menyamaiNya. ,",
     "cara": null,
-    "utama": null
+    "utama": null,
+    "sumber": "HR Tirmidzi,"
   },
   {
-    "no": null,
-    "doa": null,
-    "arab": null,
+    "no": 3,
+    "doa": "Al-Ismu Al-Adhom,",
+    "arab": " اللّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدَ، لَا إِلَهَ إِلَّا أَنْتَ الْمَنَّانُ، بَدِيعُ السَّمَاوَاتِ وَالْأَرْضِ، يَا ذَا الْجَلَالِ وَالْإِكْرَامِ، يَا حَيُّ يَا قَيُّومُ.,",
     "latin": null,
-    "arti": null,
+    "arti": "Ya Alloh, sesungguhnya aku mohon kepadaMu, karena sesungguhnya segala puji bagiMu, tiada tuhan selainMu, Dzat yang memberi anugrah Pencipta langit dan bumi, wahai Dzat yang memiliki keagungan dan kemuliaan, wahai Dzat yang hidup, wahai Dzat yang mengatur.,",
     "cara": null,
-    "utama": null
+    "utama": null,
+    "sumber": "HR Abu Dawud,"
+  },
+  {
+    "no": 4,
+    "doa": "Al-Ismu Al-Adhom,",
+    "arab": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِاسْمِكَ الطَّاهِرِ الطَّيِّبِ الْمُبَارَكِ الْأَحَبِّ إِلَيْكَ، الَّذِي إِذَا دُعِيتَ بِهِ أَجَبْتَ، وَإِذَا سُئِلْتَ بِهِ أَعْطَيْتَ، وَإِذَا اسْتُرْحِمْتَ بِهِ رَحِمْتَ، وَإِذَا اسْتُفْرِجْتَ بِهِ فَرَّجْتَ.  ْ,",
+    "latin": null,
+    "arti": "Ya Alloh, sesungguhnya aku mohon kepadaMu dengan namaMu yang suci, yang baik, yang diberkahi dan paling Engkau senangi, yang jika Engkau dipanggil dengan nama itu maka Engkau mengabulkan dan ketika Engkau diminta dengan nama itu, maka Engkau memberi dan ketika Engkau dimintai kasih sayang dengan nama itu, maka Engkau menyayangi dan ketika Engkau dimintai jalan keluar maka Engkau memberi jalan keluar.,",
+    "cara": null,
+    "utama": null,
+    "sumber": "HR Ibnu Majah,"
+  },
+  {
+    "no": 5,
+    "doa": "Al-Ismu Al-Adhom,",
+    "arab": "اللَّهُمَّ إِنِّي أَدْعُوكَ اللَّهَ وَأَدْعُوكَ الرَّحْمَنَ وَأَدْعُوكَ الْبَرَّ الرَّحِيمَ، وَأَدْعُوكَ بِأَسْمَائِكَ الْحُسْنَى كُلِّهَا، مَا عَلِمْتُ مِنْهَا، وَمَا لَمْ أَعْلَمْ، أَنْ تَغْفِرَ لِي وَتَرْحَمَنِي. ,",
+    "latin": null,
+    "arti": "Ya Alloh, sesungguhnya aku memanggilMu Alloh, aku memanggilMu Maha Pengasih, aku memanggilMu Maha Baik lagi Maha Penyayang, aku memanggilMu dengan semua nama-namaMu yang baik, yang aku tahu dan yang belum aku ketahui, agar Engkau mengampuniku dan menyayangiku. ,",
+    "cara": null,
+    "utama": null,
+    "sumber": "HR Ibnu Majah,"
+  },
+  {
+    "no": 6,
+    "doa": "Al-Ismu Al-Adhom,",
+    "arab": "وَإِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ لَّآ إِلَـٰهَ إِلَّا هُوَ ٱلرَّحْمَـٰنُ ٱلرَّحِيمُ. ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ,",
+    "latin": null,
+    "arti": " Dan Tuhan kalian adalah Tuhan yang Satu, tiada Tuhan selainNya yang Maha Pengasih lagi Maha Penyayang. Alloh tiada Tuhan selainNya, yang Maha Hidup lagi Maha Mengatur.,",
+    "cara": null,
+    "utama": null,
+    "sumber": "HR Abu Dawud,"
   },
   {
     "no": 50,
@@ -2295,5 +2327,23 @@
     "cara": ",",
     "utama": ",",
     "sumber": ","
+  },
+  {
+    "no": null,
+    "doa": null,
+    "arab": null,
+    "latin": null,
+    "arti": null,
+    "cara": null,
+    "utama": null
+  },
+  {
+    "no": null,
+    "doa": null,
+    "arab": null,
+    "latin": null,
+    "arti": null,
+    "cara": null,
+    "utama": null
   }
 ]
