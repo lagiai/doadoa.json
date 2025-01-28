@@ -711,16 +711,6 @@
  },
  {
    "no": 72,
-   "doa": "",
-   "arab": "",
-   "latin": "",
-   "arti": "",
-   "cara": "",
-   "utama": "",
-   "sumber": ""
- },
- {
-   "no": 73,
    "doa": "DOA-DOA YANG BERKAITAN DENGAN AKTIVITAS SEHARI-HARI",
    "arab": "",
    "latin": "",
@@ -730,7 +720,7 @@
    "sumber": ""
  },
  {
-   "no": 74,
+   "no": 73,
    "doa": "Do'a dan dzikir pagi dan sore 1",
    "arab": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
    "latin": "Bismillāh alladhī lā yaḍurru ma‘a ismihi shay’un fī al-arḍi walā fī as-samā’i wahuwa as-samī‘u al-‘alīm.",
@@ -740,7 +730,7 @@
    "sumber": "HR Abu Dawud,"
  },
  {
-   "no": 75,
+   "no": 74,
    "doa": "Do'a dan dzikir pagi dan sore 2",
    "arab": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَذَا الْيَوْمِ وَخَيْرَ مَا بَعْدَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِي هَذَا الْيَوْمِ وَشَرِّ مَا بَعْدَهُ، رَبِّ أَعُوذُ بِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ، رَبِّ أَعُوذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ ",
    "latin": "Aṣbaḥnā wa aṣbaḥa al-mulku lillāh, wal-ḥamdu lillāh, lā ilāha illā Allāh wahdahu lā sharīka lahu, lahu al-mulku walahu al-ḥamdu wahuwa ‘alā kulli shay’in qadīr, rabbi as’āluka khayra mā fī hādhā al-yawmi wa khayra mā ba‘dahu, wa a‘ūdhu bika min sharri mā fī hādhā al-yawmi wa sharri mā ba‘dahu, rabbi a‘ūdhu bika min al-kasali wa sū’i al-kibar, rabbi a‘ūdhu bika min ‘adhābin fī an-nāri wa ‘adhābin fī al-qabri.",
@@ -750,7 +740,7 @@
    "sumber": "HR Muslim"
  },
  {
-   "no": 76,
+   "no": 75,
    "doa": "Do'a dan dzikir pagi dan sore 3",
    "arab": " أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَذِهِ اللَّيْلَةِ وَخَيْرَ مَا بَعْدَهَا، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِي هَذِهِ اللَّيْلَةِ وَشَرِّ مَا بَعْدَهَا  رَبِّ أَعُوذُ بِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ، رَبِّ أَعُوذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ ",
    "latin": "Amsainā wa amsā al-mulku lillāh, wal-ḥamdu lillāh, lā ilāha illā Allāh wahdahu lā sharīka lahu, lahu al-mulku walahu al-ḥamdu wahuwa ‘alā kulli shay’in qadīr, rabbi as’āluka khayra mā fī hādhihī al-laylati wa khayra mā ba‘dahā, wa a‘ūdhu bika min sharri mā fī hādhihī al-laylati wa sharri mā ba‘dahā, rabbi a‘ūdhu bika min al-kasali wa sū’i al-kibar, rabbi a‘ūdhu bika min ‘adhābin fī an-nāri wa ‘adhābin fī al-qabri.",
@@ -760,7 +750,7 @@
    "sumber": "HR Muslim"
  },
  {
-   "no": 77,
+   "no": 76,
    "doa": "Do'a dan dzikir pagi dan sore 4",
    "arab": "رَضِيتُ بِاللهِ رَبًّا وَبِالإِسْلاَمِ دِينًا وَبِمُحَمَّدٍ نَبِيًّا. رَوَاهُ ابْنُ مَاجَهْ",
    "latin": "Raḍītu billāhi rabban wabi-l-islāmi dīnan wabi-Muḥammadin nabīyyan.",
@@ -770,7 +760,7 @@
    "sumber": "HR Ibnu Majah,"
  },
  {
-   "no": 78,
+   "no": 77,
    "doa": "Do'a dan dzikir pagi dan sore 5",
    "arab": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي، فَاغْفِرْ لِي ذُنُوبِي إِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ.",
    "latin": "Allāhumma anta rabbī, lā ilāha illā anta, khalaqtanī wa anā ʿabduka, wa anā ʿalā ʿahdika wa waʿdika mā isṭaṭaʿtu, aʿūdhu bika min sharri mā ṣanaʿtu, abūʾu laka biniʿmatika ʿalayya, wa abūʾu bidhambī, faghfir lī dhunūbī, innahu lā yaghfiru dhunūba illā anta.",
@@ -780,7 +770,7 @@
    "sumber": "HR Tirmidzi,"
  },
  {
-   "no": 79,
+   "no": 78,
    "doa": "Do'a dan dzikir pagi dan sore 6",
    "arab": "اللَّهُمَّ إِنِّي أَصْبَحْتُ أُشْهِدُكَ وَأُشْهِدُ حَمَلَةَ عَرْشِكَ وَمَلَائِكَتَكَ وَجَمِيعَ خَلْقِكَ أَنْكَ أَنْتَ اللهُ لاَ إِلَهَ إِلاَّ أَنْتَ وَأَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُولُكَ",
    "latin": "Allāhumma innī aṣbaḥtu ush'hiduka wa ush'hidu ḥamalata ʿarshika wa malāʾikataka wa jamīʿa khalqika annaka anta Allāh, lā ilāha illā anta wa annā Muḥammadan ʿabduka wa rasūluka.",
@@ -790,7 +780,7 @@
    "sumber": "HR Abu Dawud,"
  },
  {
-   "no": 80,
+   "no": 79,
    "doa": "Do'a dan dzikir pagi dan sore 7",
    "arab": "اللّهُمَّ مَا أَصْبَحَ بِي مِنْ نِعْمَةٍ فَمِنْكَ وَحْدَكَ، لاَ شَرِيكَ لَكَ، فَلَكَ الْحَمْدُ وَلَكَ الشُّكْرُ .",
    "latin": "Allāhumma mā aṣbaḥa bī min niʿmatin faminka waḥdaka, lā sharīka laka, falaka al-ḥamdu walaka al-shukru",
@@ -800,7 +790,7 @@
    "sumber": "HR Abu Dawud,"
  },
  {
-   "no": 81,
+   "no": 80,
    "doa": "Do'a dan dzikir pagi dan sore 8",
    "arab": "اللّهُمَّ عَافِنِي فِي بَدَنِي، اللّهُمَّ عَافِنِي فِي سَمْعِي، اللّهُمَّ عَافِنِي فِي بَصَرِي، لاَ إِلَهَ إِلاَّ أَنْتَ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، لَا إِلَهَ إِلَّا أَنْتَ (3x)",
    "latin": "Allāhumma ʿāfinī fī badanī, allāhumma ʿāfinī fī samʿī, allāhumma ʿāfinī fī baṣarī, lā ilāha illā anta.",
@@ -810,7 +800,7 @@
    "sumber": "HR Abu Dawud,"
  },
  {
-   "no": 82,
+   "no": 81,
    "doa": "Do'a dan dzikir pagi dan sore 9",
    "arab": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ، اللَّهُمَّ أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي، اللَّهُمَّ اسْتُرْ عَوْرَاتِي وَآمِنْ رَوْعَاتِي وَاحْفَظْنِي مِنْ بَيْنِ يَدَيَّ وَمِنْ خَلْفِي، وَعَنْ يَمِينِي وَعَنْ شِمَالِي وَمِنْ فَوْقِي، وَأَعُوذُ بِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي",
    "latin": "Allāhumma āfīnī fī badanī, allāhumma āfīnī fī samʿī, allāhumma āfīnī fī baṣarī, lā ilāha illā anta, allāhumma innī aʿūdhu bika mina al-kufri wal-faqri, allāhumma innī aʿūdhu bika min ʿadhābi al-qabri, lā ilāha illā anta (3x).",
@@ -820,7 +810,7 @@
    "sumber": "HR Ibnu Majah"
  },
  {
-   "no": 83,
+   "no": 82,
    "doa": "Do'a dan dzikir pagi dan sore 10",
    "arab": "اللَّهُمَّ فَاطِرَ السَّمَاوَاتِ وَالأَرْضِ، عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، أَنْتَ رَبُّ كُلِّ شَيْءٍ وَمَلِيكَهُ، أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ أَنْتَ، فَإِنِّي أَعُوذُ بِكَ مِنْ شَرِّ أَنْفُسِنَا، وَمِنْ شَرِّ الشَّيْطَانِ الرَّجِيمِ وَشِرْكِهِ، وَأَنْ نَقْتَرِفَ سُوءًا عَلَى أَنْفُسِنَا أَوْ نَجُرَّهُ إِلَى مُسْلِمٍ ",
    "latin": "Allāhumma fāṭira as-samāwāti wal-arḍi, ʿālim al-ghaybi wa-sh-shahādati, anta rabb kulli shay'in wamāliki-hi, ash-hadu allā ilāha illā anta, fa-innī aʿūdhu bika min sharri anfusinā, wa-min sharri ash-shayṭāni ar-rajīmi wa-shirkihi, wa-an naqtarifa su'an ʿalā anfusinā aw najurruhu ilā muslimin",
@@ -830,7 +820,7 @@
    "sumber": "HR Abu Dawud,"
  },
  {
-   "no": 84,
+   "no": 83,
    "doa": "Do'a dan dzikir pagi dan sore 11",
    "arab": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ، أَصْلِحْ لِي شَأْنِي كُلَّهُ، وَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ. ",
    "latin": "Yā ḥayyū yā qayyūm bi-raḥmatika astaghīthu, aṣliḥ lī sha'ni kulla-hu, wa lā takilnī ilā nafsī ṭarfata 'aynin.",
@@ -840,7 +830,7 @@
    "sumber": "HR Hakim"
  },
  {
-   "no": 85,
+   "no": 84,
    "doa": "Do'a dan dzikir pagi dan sore 12",
    "arab": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ رَبِّ الْعَالَمِينَ، اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ هَذَا الْيَوْمِ، فَتْحَهُ وَنَصْرَهُ وَنُورَهُ وَبَرَكَتَهُ وَهُدَاهُ وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِيهِ وَشَرِّ مَا بَعْدَهُ.",
    "latin": "Aṣbaḥnā wa aṣbaḥa al-mulku li-llāh rabbi al-‘ālamīn, Allāhumma innī as'aluka khayra hādhā al-yawm, fatḥahu wa naṣrahu wa nūrahu wa barakatahu wa hudāhu wa a‘ūdhu bika min sharrī mā fīhi wa sharrī mā ba‘dahu.",
@@ -850,7 +840,7 @@
    "sumber": "HR Abu Dawud,"
  },
  {
-   "no": 86,
+   "no": 85,
    "doa": "Do'a dan dzikir pagi dan sore 13",
    "arab": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ رَبِّ الْعَالَمِينَ، اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ هَذِهِ اللَّيْلَةِ فَتْحَهَا وَنَصْرَهَا وَنُورَهَا وَبَرَكَتَهَا وَهُدَاهَا، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِيهَا وَشَرِّ مَا بَعْدَهَا.",
    "latin": "Amsaynā wa amsā al-mulku li-llāh rabbi al-‘ālamīn, Allāhumma innī as'aluka khayra hādhihi al-laylah, fatḥahā wa naṣrahā wa nūrahā wa barakatahā wa hudāhā, wa a‘ūdhu bika min sharrī mā fīhā wa sharrī mā ba‘dahā.",
@@ -860,7 +850,7 @@
    "sumber": "HR Abu Dawud,"
  },
  {
-   "no": 87,
+   "no": 86,
    "doa": "Do'a dan dzikir pagi dan sore 14",
    "arab": "أَصْبَحْنَا عَلَى فِطْرَةِ الإِسْلاَمِ، وَعَلَى كَلِمَةِ الإِخْلاَصِ، وَعَلَى دِينِ نَبِيِّنَا مُحَمَّدٍ ﷺ، وَعَلَى مِلَّةِ أَبِينَا إِبْرَاهِيمَ حَنِيفًا مُسْلِمًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ.",
    "latin": "Aṣbaḥnā ‘alā fiṭrati al-islām, wa ‘alā kalimati al-ikhlāṣ, wa ‘alā dīni nabiyyinā Muḥammadin ṣallā Allāhu ‘alayhi wa sallam, wa ‘alā millati abīnā Ibrāhīma ḥanīfan musliman wamā kāna mina al-mushrikīn.",
@@ -870,7 +860,7 @@
    "sumber": "HR Ahmad"
  },
  {
-   "no": 88,
+   "no": 87,
    "doa": "Do'a dan dzikir pagi dan sore 15",
    "arab": "حَسْبِيَ اللهُ لاَ إِلَهَ إِلاَّ هُوَ، عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ (٧x).",
    "latin": "Ḥasbī Allāhu lā ilāha illā huwa, ‘alayhi tawakkaltu wa huwa rabb al-‘arshi al-‘aẓīm (7x).",
@@ -880,7 +870,7 @@
    "sumber": "HR Abu Dawud,"
  },
  {
-   "no": 89,
+   "no": 88,
    "doa": "Do'a dan dzikir pagi dan sore 16",
    "arab": " سُبْحَانَ اللهِ وَبِحَمْدِهِ (١٠٠x).",
    "latin": "Subḥāna Allāhi wa biḥamdi-hi (100x).",
